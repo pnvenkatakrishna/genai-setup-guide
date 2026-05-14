@@ -242,7 +242,7 @@ main.py
 Run:
 
 ```powershell
-uv venv
+uv sync
 ```
 
 This creates:
@@ -258,7 +258,7 @@ This creates:
 PowerShell:
 
 ```powershell
-.venv\Scripts\Activate.ps1
+.venv\Scripts\Activate
 ```
 
 If PowerShell blocks execution:
