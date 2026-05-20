@@ -138,7 +138,8 @@ Follow these steps on the Broadcom Support Portal at https://support.broadcom.co
 
 ### Once you have downloaded the DMG package, I have prepared a recording to help you set up the Windows virtual machine. Kindly review it once.
 
-[Watch video](https://attendee.gotowebinar.com/recording/3711061106133439320) for setuping vmware fusion.
+
+[Watch the setup video](https://attendee.gotowebinar.com/recording/3711061106133439320) to install and configure VMware Fusion.
 
 ### Note:
 * If you face any difficulty during the installation process, please reach out to your Lab Assistant. For contact details, refer to Infinity. 
