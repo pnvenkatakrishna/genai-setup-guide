@@ -109,6 +109,8 @@ Follow these steps on the Broadcom Support Portal at https://support.broadcom.co
 
 ![alt text](../Images/broadcom10.png)
 
+![alt text](../Images/broadcom10.png)
+
 * Switch back to the **previous tab** (Broadcom downloads page).
 
 
