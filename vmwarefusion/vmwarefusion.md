@@ -52,7 +52,7 @@ Follow these steps on the Broadcom Support Portal at https://support.broadcom.co
 
 3. Enter your individual email address, complete the CAPTCHA, and click **Next**. 
 
-![email registering](../images/broadcom2.png)
+![email registering]w/broadcom2.png)
 
 4. Check your email for the verification code from Broadcom, enter it, and click **Verify & Continue** .
 
