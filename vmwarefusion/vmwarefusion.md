@@ -137,3 +137,7 @@ Follow these steps on the Broadcom Support Portal at https://support.broadcom.co
 
 
 ### once you download, please reachout your lab assistant for additional settings.
+
+## i have prepared recording to setup windows virtual machine. kindly check once. 
+
+https://attendee.gotowebinar.com/recording/3711061106133439320
